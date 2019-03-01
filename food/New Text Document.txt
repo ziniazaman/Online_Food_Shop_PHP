@@ -1,0 +1,8 @@
+username: ab9081_food_user
+pass: gnt:food
+db name: ab9081_food_order
+usear admin
+paas asmin1
+
+
+http://192.185.195.20/~ab9081/food/
